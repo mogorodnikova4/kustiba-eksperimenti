@@ -1,0 +1,2 @@
+# kustiba-eksperimenti
+Kvalifikācijas darbs
