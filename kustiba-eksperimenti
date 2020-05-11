@@ -55,7 +55,7 @@
   <path fill-rule="evenodd" d="M13 2.5V6l-2-2V2.5a.5.5 0 01.5-.5h1a.5.5 0 01.5.5z" clip-rule="evenodd"/>
 </svg>
 					<h1 class="hide">HELLO</h1>
-				</a>
+			</a>
 			</div>
 			<nav class="navbar-collapse collapse" id="main-nav" role="navigation">
 				<ul class="nav navbar-nav navbar-right nav-text-light">
